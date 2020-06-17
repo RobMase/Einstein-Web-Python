@@ -1,0 +1,12 @@
+Internet
+
+1. ping www.tueftellaborzug.ch
+2. ping ip 
+3. nslookup.exe www.tueftellaborzug.ch
+4. curl -v -i https://www.tueftellaborzug.ch/home/ | less
+5. https://whois.domaintools.com/tueftellaborzug.ch
+
+Html
+
+1. https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg
+2. basic.html
