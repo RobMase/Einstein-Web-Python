@@ -1,12 +1,22 @@
 Internet
 
+Die Geschichte des Internet:
+https://news4kids.de/wissen/technik/article/die-geschichte-des-internets
+
+
 1. ping www.tueftellaborzug.ch
 2. ping ip 
 3. nslookup.exe www.tueftellaborzug.ch
-4. curl -v -i https://www.tueftellaborzug.ch/home/ | less
+4. curl -v https://www.tueftellaborzug.ch/home/
 5. https://whois.domaintools.com/tueftellaborzug.ch
+
+HTTP:
+
+1. https://wiki.selfhtml.org/wiki/HTTP/Einsteiger-Tutorial
 
 Html
 
 1. https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg
 2. basic.html
+3. tabelle.html
+4. tabelle_css.html
