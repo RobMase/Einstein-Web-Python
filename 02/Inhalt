@@ -1,0 +1,17 @@
+https://tutorial.djangogirls.org/de/django_installation/
+
+Django installation:
+cd Einstein-Web-Python
+cd 02
+python -m venv django
+django\Scripts\activate ODER in VS Code: .\django\Scripts\Activate.ps
+python -m pip install --upgrade pip
+requirements.txt im Ordner django erstellen
+Django~=2.2.4 in die Datei requirements.txt schreiben
+cd django
+
+
+Erstes Projekt starten:
+django-admin.exe startproject meineseite .
+
+python manage.py runserver
